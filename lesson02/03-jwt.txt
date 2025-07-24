@@ -1,0 +1,8 @@
+Decoded Header
+{
+  "alg": "HS256",
+  "typ": "JWT"
+}
+
+Decoded Payload
+"{\"sub\":\"70080aa3-5561"
