@@ -1,0 +1,9 @@
+Collection: API test - Functional testing
++ baseUrl: https://template.postman-echo.com
++ apiKey: 4V5946BJ.rQpnC1UmFw5Dn22OWyuEV
++ fromAccountId: 2435532
++ toAccountId: 2435533
++ toAccountStartingBalance: 0
++ transactionId: 660203
++ transactionAmount: 500
++ transactionCurrency: COSMIC_COINS
